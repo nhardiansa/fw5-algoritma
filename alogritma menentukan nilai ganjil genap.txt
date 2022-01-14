@@ -1,0 +1,6 @@
+1. start
+2. input nilai ke dalam variabel x
+3. lakukan operasi modulus => x%2
+4. jika hasilnya adalah 0 maka x adalah genap
+5. jika hasilnya adalah 1 maka x adalah ganjil
+6. end

@@ -1,0 +1,8 @@
+1. start
+2. input nilai ke dalam masing-masing variabel, dlm hal ini x dan y
+3. lakukan pengurangan x - y
+4. jika hasil dari pengurangannya > 0, maka x adalah nilai terbesar
+5. jika hasil dari pengurangannya < 0, maka y adalah nilai terbesar
+6. jika hasilnya = 0, maka kedua nilainya sama
+7. tampilkan hasil
+8. end

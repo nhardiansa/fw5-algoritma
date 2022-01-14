@@ -1,0 +1,9 @@
+1. start
+2. siapkan dua gelas yg berisi kopi dan teh 
+3. siapkan 1 gelas kosong
+4. tuang kopi ke dalam gelas kosong
+5. bersihkan bekas gelas kopi
+6. tuang teh ke dalam gelas kopi
+7. bersihkan bekas gelas teh
+8. tuang kopi ke dalam gelas bekas teh tadi
+9. end

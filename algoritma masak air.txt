@@ -1,0 +1,9 @@
+1. start
+2. siapkan panci
+3. memutar kran air
+4. Memasukkan air ke dalam panci
+5. menyalakan kompor
+6. menaruh panci ke atas kompor
+7. menunggu air hingga mendidih
+8. matikan kompor
+9. end

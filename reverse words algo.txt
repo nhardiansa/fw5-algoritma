@@ -1,0 +1,29 @@
+REVERSE WORDS ALGORITHMS
+1.start
+2.input text
+3.lakukan iterasi dimulai dari index terakhir hingga awal
+4.jika terdapat spasi, maka simpan kata di depan dari spasi hingga bertemu spasi lagi atau index terakhir ke dalam penampung serta spasi setelahnya
+5.tampilkan penampung
+6.end
+
+Pseudocode
+
+GET text
+
+X = text.length - 1
+hasil = ""
+
+FOR i = X to 0
+  IF text[i] == " " OR text[i] == text[0]
+    FOR a = i+1 to X
+      IF text[a] !== " "
+        hasil = hasil + text[a]
+      ELSE
+        hasil = hasil + " "
+        END LOOP
+      END IF
+    END FOR
+  END IF
+END FOR
+
+PRINT hasil

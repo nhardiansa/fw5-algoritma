@@ -1,0 +1,12 @@
+1. start
+
+inisialisasi
+2. nilai pi= 22/7 atau 3.14
+3. menentukan r adalah radius
+
+4. siapkan rumus utk menghitung luas dan keliling lingkaran
+5. tentukan terlebih dahulu nilai r telah, dlm hal ini 14
+6. jika ingin menghitung sebuah luas lingkaran, maka masukan nilai r ke dalam rumus luas yaitu: 22/7*r*r
+7. jika ingin menghitung sebuah keliling lingkrang, maka masukan nilai r ke dalam rumus keliling: 2*22/7*r
+
+8. end

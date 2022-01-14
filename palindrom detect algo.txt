@@ -1,0 +1,24 @@
+1.start
+2.input TEXT 
+3.dapatkan panjang TEXT dan kurangi jumlahnya dengan 1
+4.bandingkan tiap element TEXT secara berulang dimulai dari index pertama dan terakhir, lalu index kedua dan element sebelum index terakhir, dst
+5.jika salah satu perbandingan tidak sama maka hasilnya adalah "bukan palindrom"
+6.jika semua perbandingan sama maka hasilnya adalah "palindrom"
+7.tampilkan hasil
+8.end
+
+
+
+GET text
+
+X = text.length - 1
+result = "palindrom"
+
+FOR i = 0 to X
+  IF text[i] !== text[X-0]
+    result = "Not Palindrom"
+    END LOOP
+  END IF
+END FOR
+
+PRINT result
